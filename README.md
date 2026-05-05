@@ -39,6 +39,7 @@ This approach demonstrates basic mechanical principles such as rotational motion
 - Autodesk Fusion 360
 
 ## Inspiration
-    https://www.youtube.com/watch?v=5Y2WILQQ56A
-    https://youtu.be/N-yYhogDE1I?si=sfu1I9pkZn5Z7vtX
-    https://www.youtube.com/watch?v=ssSaAyLIbHc&t=12s
+- [Up and down motion](https://www.youtube.com/watch?v=5Y2WILQQ56A)  
+- [Manual crank mechanism](https://youtu.be/N-yYhogDE1I?si=sfu1I9pkZn5Z7vtX)  
+- [General carousel idea](https://www.youtube.com/watch?v=ssSaAyLIbHc&t=12s)  
+- [3D design reference](https://cults3d.com/en/3d-model/game/carrousel-de-noel-wildart3d)  
