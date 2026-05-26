@@ -5,7 +5,9 @@
 
 A mechanically actuated 3D-printable amusement park carousel modeled in **Autodesk Fusion 360**. The project combines decorative design with functional mechanical transmission: a hand crank drives the rotation of the carousel platform, while a cam-based mechanism makes the horses move vertically, creating the classic up-and-down carousel motion.
 
-> **Demo video:** [here](https://www.youtube.com/)
+> **Demo video:** [HERE](https://youtu.be/xMzzyKO_sAQ)  
+> **Note:** In the demo video, the up-and-down motion is shown on only one horse for visualization purposes.  
+> In the real-life physical model, all carousel horses are designed to move vertically as the carousel rotates.
 
 ---
 
