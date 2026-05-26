@@ -137,9 +137,11 @@ This contact-based behavior is what makes the up-and-down movement mechanically 
 ---
 
 ## Main Components
-### Full Assembly
+### Full Assembly ++ Render
 
-![Full carousel assembly](images/assembly.png)
+| Fusion 360 assembly | Rendered view |
+|---|---|
+| ![Full carousel assembly](images/assembly.png) | ![Rendered carousel assembly](images/render.png) |
 
 
 ### Component Images
