@@ -5,7 +5,7 @@
 
 A mechanically actuated 3D-printable amusement park carousel modeled in **Autodesk Fusion 360**. The project combines decorative design with functional mechanical transmission: a hand crank drives the rotation of the carousel platform, while a cam-based mechanism makes the horses move vertically, creating the classic up-and-down carousel motion.
 
-> **Demo video:** [HERE](https://youtu.be/7jgFynB1HTc)
+> **Demo video:** [!! HERE !!](https://youtu.be/7jgFynB1HTc)
 > **Note:** In the demo video, the up-and-down motion is shown on only one horse for visualization purposes.  
 > In the real-life physical model, all carousel horses are designed to move vertically as the carousel rotates.
 
@@ -14,19 +14,25 @@ A mechanically actuated 3D-printable amusement park carousel modeled in **Autode
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Demo](#demo)
-- [Gallery](#gallery)
+  - [Key Features](#key-features)
 - [Mechanical Architecture & Motion Flow](#mechanical-architecture--motion-flow)
+  - [Manual Input](#1-manual-input)
+  - [Bevel Gear Transmission](#2-bevel-gear-transmission)
+  - [Platform Rotation](#3-platform-rotation)
+  - [Horse Support Motion](#4-horse-support-motion)
+  - [Up-and-Down Motion](#5-up-and-down-motion)
 - [Motion Link and Contact-Based Movement](#motion-link-and-contact-based-movement)
+  - [Motion Link](#motion-link)
+  - [Contact Sets](#contact-sets)
 - [Main Components](#main-components)
+  - [Full Assembly and Render](#full-assembly--render)
+  - [Component Images](#component-images)
 - [File Inventory & Directory Structure](#file-inventory--directory-structure)
-- [Requirements & Tools Needed](#requirements--tools-needed)
-- [Opening and Editing the Files](#opening-and-editing-the-files)
-- [3D Printing Notes](#3d-printing-notes)
-- [Assembly Notes](#assembly-notes)
-- [Known Limitations and Assumptions](#known-limitations-and-assumptions)
+  - [Project Tree](#project-tree)
+- [Requirements & Tools Needed](#️-requirements--tools-needed)
+  - [Software](#software)
+  - [Hardware & Materials](#hardware--materials)
 - [Inspiration & References](#inspiration--references)
-
 ---
 
 ## Project Overview
@@ -218,7 +224,7 @@ The project is structured into functional component folders containing Autodesk 
 ### Hardware & Materials
 *   **3D Printer:** Prusa i3 MK3S, Bambu Lab A1
 *   **Filaments:**
-    *   **PETG Filament:** pillers, discs, horses
+    *   **PETG Filament:** pillars, discs, horses
     *   **PLA Filament:** dome, base
 
 ---
