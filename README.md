@@ -212,14 +212,14 @@ The project is structured into functional component folders containing Autodesk 
 
 
 ### Software
-*   **CAD Editor:** Autodesk Fusion 360 s)
-*   **3D Slicing Software:** PrusaSlicer
+*   **CAD Editor:** Autodesk Fusion 360 
+*   **3D Slicing Software:** PrusaSlicer, Bambu Slicer
 
 ### Hardware & Materials
-*   **3D Printer:** FDM printer with a minimum build volume of $210 \times 210 \times 200 \text{ mm}$ (e.g., Prusa i3 MK3S/MK4, Bambu Lab P1P/A1).
+*   **3D Printer:** Prusa i3 MK3S, Bambu Lab A1
 *   **Filaments:**
-    *   **PETG Filament:**
-    *   **PLA Filament:** 
+    *   **PETG Filament:** pillers, discs, horses
+    *   **PLA Filament:** dome, base
 
 ---
 
